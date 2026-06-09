@@ -1,6 +1,6 @@
 # Hi, I'm Sachin Jadhav 👋
 
-### Credit Risk & Loan Portfolio Management Consultant | Banking Analytics | 19 Yrs BFSI
+### Banking Domain Consultant | Finacle 14 yrs | SME/MSME Credit | Founder @FinsightOne| 19 yrs BFSI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sachin-jadhav-consulting)
 [![FinsightOne](https://img.shields.io/badge/FinsightOne-Live_Site-1F4E79?style=flat&logo=vercel)](https://finsight-one-4cao.vercel.app/)
