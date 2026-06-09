@@ -2,7 +2,7 @@
 
 ### Banking Domain Consultant | Finacle 14 yrs | SME/MSME Credit | Founder @FinsightOne| 19 yrs BFSI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sachin-jadhav-consulting)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sachin-jadhav-consultant)
 [![FinsightOne](https://img.shields.io/badge/FinsightOne-Live_Site-1F4E79?style=flat&logo=vercel)](https://finsight-one-4cao.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:jadhav.sachin6290@gmail.com)
 [![Calendly](https://img.shields.io/badge/Book_a_Call-Calendly-006BFF?style=flat&logo=calendly)](https://calendly.com/jadhav-sachin6290)
@@ -56,7 +56,6 @@ With **19 years in BFSI** — across SME banking, commercial credit, agri financ
 
 ## 📜 Certifications
 
-- 🏅 CAIIB — Indian Institute of Banking & Finance
 - 🏅 JAIIB — Indian Institute of Banking & Finance
 - 📊 Executive PGP in Business Analytics — InGrade *(In Progress)*
 - 🤖 GEN AI Certification
